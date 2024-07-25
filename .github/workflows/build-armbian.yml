@@ -61,6 +61,7 @@ on:
           - r66s
           - r68s
           - renegade-rk3328
+          - heltec-rk3328 
           - rk3318-box
           - rock5b
           - s905
